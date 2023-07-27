@@ -6,7 +6,7 @@
 - **Competitive Advantage**: Utilizing machine learning for churn prediction provides a strategic edge, enabling data-driven decisions and personalized customer experiences.
 
 ## 📝 Description
-- This implementation uses the IBM telco dataset taken from here : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- This implementation uses the IBM telco dataset taken from here : (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - The data has been thoroughly cleaned, explored and prepared to ensure reliability
 - Developed a robust model to forecast if customer will churn or not.
 
