@@ -14,6 +14,9 @@
 - The metric chosen to evaluate a model's performance is precision.
 - The best performing model was taken and tuned to improve performance
 
+## 🛠️ Requirements
+- Python 3.5+ 
+
 ## 💻 Contributors
 - Faizan Siddiqi
 
