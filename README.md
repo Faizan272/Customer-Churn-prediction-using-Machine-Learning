@@ -14,11 +14,6 @@
 - The metric chosen to evaluate a model's performance is precision.
 - The best performing model was taken and tuned to improve performance
 
-<div style="display: inline;">
-  <div style="flex: 1;"><h3>⏳ Contributors</h3></div>
-  <div>
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Data Science GIF" width="50">
-  </div>
-</div>
-
+## 💻 Contributors
+- Faizan Siddiqi
 
