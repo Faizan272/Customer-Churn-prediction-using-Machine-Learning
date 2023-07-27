@@ -1,0 +1,8 @@
+#Project Requirements
+scikit-learn==1.1.2
+matplotlib==3.6.0
+matplotlib-inline==0.1.6
+pandas==1.2.5
+seaborn==0.12.1
+mpmath==1.2.1
+numpy==1.23.4
