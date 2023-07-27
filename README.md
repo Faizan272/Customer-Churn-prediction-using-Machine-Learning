@@ -1,6 +1,6 @@
 # Customer Churn-prediction using Machine-Learning
 
-### Business Proposition
+### 🎯Business Proposition
 - **Revenue Protection**: Predicting customer churn helps protect existing revenue streams and avoid the cost of acquiring new customers.
 - **Customer Loyalty**: By identifying churn patterns, businesses can address customer concerns promptly, fostering satisfaction and loyalty.
 - **Competitive Advantage**: Utilizing machine learning for churn prediction provides a strategic edge, enabling data-driven decisions and personalized customer experiences.
