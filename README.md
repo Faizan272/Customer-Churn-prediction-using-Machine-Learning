@@ -17,7 +17,7 @@
 <div style="display: flex;">
   <div style="flex: 1;"><h3>⏳ Contributors</h3></div>
   <div>
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Data Science GIF" width="50">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Data Science GIF" width="20">
   </div>
 </div>
 
